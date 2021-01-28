@@ -1,0 +1,11 @@
+.card-container {
+    background-color: rgb(34, 104, 104);
+    color: rgb(41, 108, 167);
+    width: 20vw;
+    margin: 20px;
+}
+.Card {
+    width: 10vh;
+    display:flex;
+    flex-direction: row;
+}
